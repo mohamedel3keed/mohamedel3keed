@@ -12,7 +12,7 @@
 ---
 
 ### 🛠️ Tech Stack  
-💬 Languages: **Python**, **SQL**  
+💬 Languages: **Python**, **SQL**  , **Dart** , **C++** 
 📊 Interests: **Data Engineering**, **ETL Pipelines**, **Data Warehousing**
 
 ---
@@ -26,7 +26,7 @@
 ---
 
 ### 🤝 Connect With Me  
-📫 Reach me via my **LinkedIn email** — always open for collaborations and opportunities.  
+📫 Reach me via my **www.linkedin.com/in/mohamed-elakeed-a92134299** — always open for collaborations and opportunities.  
 
 ---
 
