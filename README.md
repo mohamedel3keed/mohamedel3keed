@@ -1,16 +1,33 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Mohamed Elakeed</h1>
+<h3 align="center">Developer & Data Engineering Enthusiast</h3>
 
-<!--
-**mohamedel3keed/mohamedel3keed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me  
+💻 I'm a **Developer** and **Data Engineering Enthusiast** who loves exploring how data shapes decisions and drives innovation.  
+🔹 Skilled in **Python**, **SQL**, and passionate about building scalable **Data Engineering** solutions.  
+🌱 Constantly improving my technical skills and working toward becoming a professional **Data Engineer**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack  
+💬 Languages: **Python**, **SQL**  
+📊 Interests: **Data Engineering**, **ETL Pipelines**, **Data Warehousing**
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedel3keed&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedel3keed&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+### 🤝 Connect With Me  
+📫 Reach me via my **LinkedIn email** — always open for collaborations and opportunities.  
+
+---
+
+⭐️ *“Code. Learn. Evolve.”*
