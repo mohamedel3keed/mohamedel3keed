@@ -1,53 +1,57 @@
-# Hi there 👋 I'm Mohamed Elakeed
+# 👋 Hi, I'm Mohamed Elakeed
 
-🎓 Computer Science Student | Aspiring Data Engineer
-
----
-
-## 👨‍💻 About Me
-
-I'm a Computer Science student with a strong interest in **Data Engineering** and building systems that transform raw data into valuable insights.
-
-I enjoy working on problems that require **analytical thinking, data modeling, and scalable data solutions**. My goal is to build reliable data pipelines and gain deeper expertise in modern data systems.
-
-I also have a background in **Software Engineering**, where I previously worked with Flutter and Dart before focusing my journey on the data field.
+🎓 Computer Science Student  
+📊 Aspiring Data Engineer  
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-**Languages**
+I'm a Computer Science student passionate about **Data Engineering** and building systems that turn raw data into meaningful insights.
+
+I enjoy solving complex problems, designing efficient data pipelines, and working with large datasets.
+
+My goal is to become a professional **Data Engineer** and build scalable data solutions that support data-driven decisions.
+
+---
+
+## 🛠 Tech Stack
+
+### Programming Languages
 - Python
 - SQL
 - C++
 - Dart
 
-**Libraries**
+### Libraries
 - Pandas
 - NumPy
 
-**Concepts & Tools**
+### Data Engineering
 - ETL Pipelines
 - Data Modeling
 - Data Warehousing
 - dbt
+
+### Computer Science
 - Object-Oriented Programming
-- Data Structures & Algorithms
+- Data Structures
+- Algorithms
 
 ---
 
-## 🚀 What I'm Currently Learning
+## 📚 Currently Learning
 
-- Advanced SQL for data transformation
-- Building scalable **data pipelines**
-- Modern **Data Engineering tools**
-- Data warehouse architecture
+- Advanced SQL
+- Data Pipeline Architecture
+- Modern Data Engineering Tools
+- Data Warehousing Systems
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
@@ -56,8 +60,8 @@ I also have a background in **Software Engineering**, where I previously worked 
 ## 🤝 Connect With Me
 
 💼 LinkedIn  
-www.linkedin.com/in/mohamed-elakeed55
+https://www.linkedin.com/in/mohamed-elakeed55
 
 ---
 
-⭐ *"Always learning, always building."*
+⭐ *Always learning. Always building.*
