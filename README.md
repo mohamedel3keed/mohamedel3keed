@@ -51,9 +51,9 @@ My goal is to become a professional **Data Engineer** and build scalable data so
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedel3keed&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedel3keed&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedel3keed&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedel3keed&layout=compact&theme=tokyonight)
 
 ---
 
