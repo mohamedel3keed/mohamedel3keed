@@ -26,7 +26,7 @@
 ---
 
 ### 🤝 Connect With Me  
-📫 Reach me via my **www.linkedin.com/in/mohamed-elakeed-a92134299** — always open for collaborations and opportunities.  
+📫 Reach me via my **www.linkedin.com/in/mohamed-elakeed55** — always open for collaborations and opportunities.  
 
 ---
 
